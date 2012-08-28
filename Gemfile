@@ -10,7 +10,7 @@ gem 'bson_ext', '~> 1.6.4'
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
   gem 'coffee-rails', '~> 3.2.1'
-  gem 'therubyracer', '~> 0.10.2', platforms: :ruby
+  gem 'therubyracer', '~> 0.10.1', platforms: :ruby
   gem 'uglifier', '~> 1.2.0'
   gem 'bootstrap-sass', '~> 2.0.4'
   gem 'simple_form', '~> 2.0.2'

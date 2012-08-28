@@ -206,7 +206,7 @@ DEPENDENCIES
   sass-rails (~> 3.2.3)
   simple_form (~> 2.0.2)
   spork
-  therubyracer (~> 0.10.2)
+  therubyracer (~> 0.10.1)
   thin (~> 1.4.0)
   travis-lint (~> 1.4.0)
   uglifier (~> 1.2.0)
